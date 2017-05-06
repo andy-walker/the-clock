@@ -1,0 +1,29 @@
+body {
+    background:black;
+    margin-top:40px;
+}
+
+#container {
+    position:relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#clock {
+    width: 100%;
+    height: 100%;
+}
+
+#hour-hand {
+    transform-origin: 50% 81%;
+}
+
+#minute-hand {
+    transform-origin: 50% 81%;
+}
+
+#second-hand {
+    transform-origin: 50% 81%;
+}
+
