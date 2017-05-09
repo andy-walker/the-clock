@@ -1,6 +1,6 @@
 body {
     background:black;
-    margin-top:40px;
+    margin-top:50px;
 }
 
 #container {
@@ -16,14 +16,14 @@ body {
 }
 
 #hour-hand {
-    transform-origin: 50% 81%;
+    transform-origin: 50% 50%;
 }
 
 #minute-hand {
-    transform-origin: 50% 81%;
+    transform-origin: 50% 50%;
 }
 
 #second-hand {
-    transform-origin: 50% 81%;
+    transform-origin: 50% 50%;
 }
 
